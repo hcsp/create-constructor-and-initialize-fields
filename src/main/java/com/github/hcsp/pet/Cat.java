@@ -4,7 +4,7 @@ public class Cat {
     private String name;
 
     public Cat(String black) {
-
+        this.name = black;
     }
 
     // Create a constructor here
