@@ -4,11 +4,7 @@ public class Cat {
     private String name;
 
     // Create a constructor here
-    // 在这里创建一个构造器\
-    public Cat(String name){
-        //this指的是该类里面的name，name是这个传入的参数
-        this.name = name;
-    }
+    // 在这里创建一个构造器
 
     @Override
     public String toString() {
