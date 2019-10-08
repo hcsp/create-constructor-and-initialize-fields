@@ -5,9 +5,6 @@ public class Cat {
 
     // Create a constructor here
     // 在这里创建一个构造器
-    public Cat(String name){
-        this.name = name;//this表示类中当前的对象
-    }
 
     @Override
     public String toString() {
