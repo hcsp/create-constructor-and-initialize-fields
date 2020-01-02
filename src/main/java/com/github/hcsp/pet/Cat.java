@@ -5,12 +5,7 @@ public class Cat {
 
     // Create a constructor here
     // 在这里创建一个构造器
-    //public Cat(){}
-    public Cat(String name){
-        //Cat cat=new Cat();
-        //cat.name=name;
-        this.name=name;
-    }
+
     @Override
     public String toString() {
         return "Cat(" + name + ")";
