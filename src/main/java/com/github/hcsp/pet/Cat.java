@@ -4,10 +4,6 @@ public class Cat {
     private String name;
 
     // Create a constructor here
-
-    public Cat(String name) {
-        this.name = name;
-    }
     // 在这里创建一个构造器
 
     @Override
