@@ -5,9 +5,12 @@ public class Cat {
 
     // Create a constructor here
     // 在这里创建一个构造器
-
     @Override
     public String toString() {
         return "Cat(" + name + ")";
+    }
+
+    public Cat(String name) {
+        this.name = name;
     }
 }
