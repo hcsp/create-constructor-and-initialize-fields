@@ -5,7 +5,8 @@ public class Cat {
 
     // Create a constructor here
     // 在这里创建一个构造器
-      public Cat() { };
+    public Cat() {
+    }
 
     @Override
     public String toString() {
