@@ -8,5 +8,6 @@ public class Home {
         // 在Cat.java中创建一个构造器Cat(String name)
         System.out.println(new Cat("Black"));
         System.out.println(new Cat("White"));
+
+        }
     }
-}
