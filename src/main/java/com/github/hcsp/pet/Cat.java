@@ -6,6 +6,11 @@ public class Cat {
     // Create a constructor here
     // 在这里创建一个构造器
 
+
+    public Cat() {
+
+    }
+
     @Override
     public String toString() {
         return "Cat(" + name + ")";
